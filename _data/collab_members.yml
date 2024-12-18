@@ -1,0 +1,14 @@
+- name: Ahmed Bourouis
+  photo: bourouis.jpg
+  info: PhD student
+  email: bourouis17@gmail.com
+  number_educ: 1
+  education1: PhD at <a href="https://www.surrey.ac.uk">Uni. of Surrey</a>
+
+- name: Abdenour Hadid
+  photo: hadid.jpg
+  info: Professor
+  email: abdenour.hadid@sorbonne.ae
+  number_educ: 2
+  education1: Sorbonne Center for Artificial Intelligence (SCAI)
+  education2: PhD at <a href="https://www.oulu.fi/en">University of Oulu</a>

@@ -1,0 +1,8 @@
+@inproceedings{Lakhal_2022_BMVC,
+author    = {Mohamed I Lakhal and Oswald Lanz and ANDREA CAVALLARO},
+title     = {Implicit texture mapping for multi-view video synthesis},
+booktitle = {33rd British Machine Vision Conference 2022, {BMVC} 2022, London, UK, November 21-24, 2022},
+publisher = {{BMVA} Press},
+year      = {2022},
+url       = {https://bmvc2022.mpi-inf.mpg.de/0290.pdf}
+}

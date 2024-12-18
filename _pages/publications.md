@@ -19,7 +19,7 @@ permalink: /publications/
 		
 	</td>
 	<td>
-		Xun Tu, Karthik Desingh<br/>
+		Mohamed Ilyes Lakhal, Richard Bowden<br/>
 		<i>"Diversity-Aware Sign Language Production through a Pose Encoding Variational Autoencoder,"</i><br/>
 		<b>FG 2024.</b><br/>
 		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/lakhal_FG_24'>Bibtex</a>] &nbsp;
@@ -31,75 +31,35 @@ permalink: /publications/
 
 <tr>
 	<td>
-		<center><img src='{{ site.url }}{{ site.baseurl }}/images/pubpic/fg24.jpg' width=300></center>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/pubpic/bmvc22.jpg' width=300></center>
 		
 	</td>
 	<td>
-		Ryan Diaz, Adam Imdieke, Vivek Veeriah, Karthik Desingh<br/>
-		<i>"AugInsert: Learning Robust Visual-Force Policies via Data Augmentation for Object Assembly Tasks,"</i><br/>
-		<b>under review.</b><br/>
-		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/diaz2024AugInsertarXiv'>Bibtex</a>] &nbsp;
+		Mohamed Ilyes Lakhal, Oswald Lanz, Andrea Cavallaro<br/>
+		<i>"Implicit texture mapping for multi-view video synthesis,"</i><br/>
+		<b>BMVC 2022.</b><br/>
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/lakhal_BMVC_22'>Bibtex</a>] &nbsp;
 		[<a href='https://arxiv.org/pdf/2410.14968'>Arxiv</a>] &nbsp;
-		[<a href='https://youtu.be/UTA7sefgs2o?feature=shared'>Video</a>] &nbsp;
-		[<a href='https://rpm-lab-umn.github.io/auginsert/'>Project page</a>] &nbsp;
+    [<a href='https://bmvc2022.mpi-inf.mpg.de/290/'>Poster</a>] &nbsp;
 		
 	</td>
 </tr>
 
 <tr>
 	<td>
-		<center><img src='{{ site.url }}{{ site.baseurl }}/images/pubpic/fg24.jpg' width=300></center>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/pubpic/iccv19.jpg' width=300></center>
 		
 	</td>
 	<td>
-		Carl Winge, Adam Imdieke, Bahaa Aldeeb, Dongyeop Kang, Karthik Desingh<br/>
-		<i>"Talk Through It: End User Directed Manipulation Learning,"</i><br/>
-		<b>RA-L 2024.</b><br/>
-		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/winge2024RAL'>Bibtex</a>] &nbsp;
-		[<a href='https://ieeexplore.ieee.org/document/10608414'>IEEE</a>] &nbsp;
-		[<a href='https://arxiv.org/pdf/2402.12509.pdf'>Arxiv</a>] &nbsp;
-		[<a href='https://www.youtube.com/watch?v=j_FHSDrw6dM'>Video</a>] &nbsp;
-		[<a href='https://talk-through-it.github.io/'>Project page</a>] &nbsp;
+		Mohamed Ilyes Lakhal, Oswald Lanz, Andrea Cavallaro<br/>
+		<i>"View-LSTM: novel-view video synthesis through view decomposition,"</i><br/>
+		<b>ICCV 2019.</b><br/>
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/lakhal_ICCV_19'>Bibtex</a>] &nbsp;
+		[<a href='https://openaccess.thecvf.com/content_ICCV_2019/papers/Lakhal_View-LSTM_Novel-View_Video_Synthesis_Through_View_Decomposition_ICCV_2019_paper.pdf'>Paper</a>] &nbsp;
 		
 	</td>
 </tr>
 
-<tr>
-	<td>
-		<center><img src='{{ site.url }}{{ site.baseurl }}/images/pubpic/fg24.jpg' width=300></center>
-		
-	</td>
-	<td>
-		Alireza Rezazadeh, Athreyi Badithela, Karthik Desingh, Changhyun Choi<br/>
-		<i>"SlotGNN: Unsupervised Discovery of Multi-Object Representations and Visual Dynamics,"</i><br/>
-		<b>ICRA 2024.</b><br/>
-		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/rezazadeh2024ICRA'>Bibtex</a>] &nbsp;
-		[<a href='https://ieeexplore.ieee.org/abstract/document/10611588'>IEEE</a>] &nbsp;
-		[<a href='https://arxiv.org/pdf/2310.04617.pdf'>Arxiv</a>] &nbsp;
-		[<a href='https://www.youtube.com/watch?v=0fZBY5bMh3Q'>Video</a>] &nbsp;
-		[<a href='https://www.alireza.page/slot-gnn'>Project page</a>] &nbsp;
-		
-	</td>
-</tr>
-
-
-<tr>
-	<td>
-		<center><img src='{{ site.url }}{{ site.baseurl }}/images/pubpic/fg24.jpg' width=300></center>
-		
-	</td>
-	<td>
-		Chahyon Ku, Carl Winge, Ryan Diaz, Wentao Yuan, Karthik Desingh<br/>
-		<i>"Evaluating Robustness of Visual Representations for Object Assembly Task Requiring Spatio-Geometrical Reasoning,"</i><br/>
-		<b>ICRA 2024.</b><br/>
-		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/ku2024ICRA'>Bibtex</a>] &nbsp;
-		[<a href='https://ieeexplore.ieee.org/abstract/document/10610774'>IEEE</a>] &nbsp;
-		[<a href='https://arxiv.org/pdf/2310.09943.pdf'>Arxiv</a>] &nbsp;
-		[<a href='https://www.youtube.com/watch?v=3e5QKCdmb7Q'>Video</a>] &nbsp;
-		[<a href='https://sites.google.com/view/geometric-peg-in-hole/home'>Project page</a>] &nbsp;
-		
-	</td>
-</tr>
 </table>
 
 <!--## Group highlights

@@ -1,0 +1,10 @@
+@inproceedings{Lakhal_ICCV_2019,
+  author={Lakhal, Mohamed and Lanz, Oswald and Cavallaro, Andrea},
+  booktitle={2019 IEEE/CVF International Conference on Computer Vision (ICCV)}, 
+  title={View-LSTM: Novel-View Video Synthesis Through View Decomposition}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={7576-7586},
+  keywords={Three-dimensional displays;Spatiotemporal phenomena;Recurrent neural networks;Decoding;Computer architecture;Feature extraction;Task analysis},
+  doi={10.1109/ICCV.2019.00767}}

@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Visual Computing Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Visual Computing Lab at the University Of Surrey &rarr; CVSSP."
 sitemap: false
 permalink: /
 ---

@@ -29,3 +29,73 @@
     display: British Machine Vision Conference (BMVC) 2022
   highlight: 1
   news2:
+
+- title: "Novel-view human action synthesis"
+  image: 
+  description:  Novel-View Human Action Synthesis aims to synthesize the movement of a body from a virtual viewpoint, given a video from a real viewpoint. We present a novel 3D reasoning to synthesize the target viewpoint. We first estimate the 3D mesh of the target body and transfer the rough textures from the 2D images to the mesh. As this transfer may generate sparse textures on the mesh due to frame resolution or occlusions.
+  authors: Mohamed Ilyes Lakhal, Davide Boscaini, Fabio Poiesi, Oswald Lanz, Andrea Cavallaro
+  link:
+    url: https://openaccess.thecvf.com/content/ACCV2020/papers/Lakhal_Novel-View_Human_Action_Synthesis_ACCV_2020_paper.pdf
+    display:  Asian Conference on Computer Vision (ACCV) 2020
+  highlight: 0
+  news2:
+
+- title: "View-LSTM: novel-view video synthesis through view decomposition"
+  image: iccv19.jpg
+  description:  We tackle the problem of synthesizing a video of multiple moving people as seen from a novel view, given only an input video and depth information or human poses of the novel view as prior. This problem requires a model that learns to transform input features into target features while maintaining temporal consistency.
+  authors: Mohamed Ilyes Lakhal, Oswald Lanz, Andrea Cavallaro
+  link:
+    url: https://openaccess.thecvf.com/content_ICCV_2019/papers/Lakhal_View-LSTM_Novel-View_Video_Synthesis_Through_View_Decomposition_ICCV_2019_paper.pdf
+    display: International Conference on Computer Vision (ICCV) 2019
+  highlight: 1
+  news2:
+
+- title: "Learnable Masks for Pose-Guided View Synthesis"
+  image: 
+  description:  
+  authors: Mohamed Ilyes Lakhal, Oswald Lanz, Andrea Cavallaro
+  link:
+    url: https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/71362/Cavallaro%20Learnable%20Masks%20for%202019%20Accepted.pdf?sequence=2
+    display: IEEE International Conference on Image Processing (ICIP) 2019
+  highlight: 0
+  news2:
+
+- title: "Pose guided human image synthesis by view disentanglement and enhanced weighting loss"
+  image: eccvw18.jpg
+  description: View synthesis aims at generating a novel, unseen view of an object. This is a challenging task in the presence of occlusions and asymmetries. In this paper, we present View-Disentangled Generator (VDG), a two-stage deep network for pose-guided human-image generation that performs coarse view prediction followed by a refinement stage.
+  authors: Mohamed Ilyes Lakhal, Oswald Lanz, Andrea Cavallaro
+  link:
+    url: https://openaccess.thecvf.com/content_ECCVW_2018/papers/11130/Lakhal_Pose_guided_human_image_synthesis_by_view_disentanglement_and_enhanced_ECCVW_2018_paper.pdf
+    display: European Conference on Computer Vision (ECCV) Workshops 2018
+  highlight: 1
+  news2:
+
+- title: "Residual stacked rnns for action recognition"
+  image: 
+  description: 
+  authors: Mohamed Ilyes Lakhal, Albert Clapés, Sergio Escalera, Oswald Lanz, Andrea Cavallaro
+  link:
+    url: https://openaccess.thecvf.com/content_ECCVW_2018/papers/11130/Lakhal_Residual_Stacked_RNNs_for_Action_Recognition_ECCVW_2018_paper.pdf
+    display: European Conference on Computer Vision (ECCV) Workshops 2018
+  highlight: 0
+  news2:
+
+- title: "Recurrent neural networks for remote sensing image classification"
+  image: 
+  description: 
+  authors: Mohamed Ilyes Lakhal, Hakan Çevikalp, Sergio Escalera, Ferda Ofli
+  link:
+    url: https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/iet-cvi.2017.0420
+    display: IET Computer Vision 2018
+  highlight: 0
+  news2:
+
+- title: "CRN: End-to-end Convolutional Recurrent Network Structure Applied to Vehicle Classification"
+  image: 
+  description: 
+  authors: Mohamed Ilyes Lakhal, Sergio Escalera, Hakan Cevikalp
+  link:
+    url: https://www.scitepress.org/Papers/2018/65336/65336.pdf
+    display: International Joint Conference on Computer Vision, Imaging and Computer Graphics (VISAPP) 2018
+  highlight: 0
+  news2:

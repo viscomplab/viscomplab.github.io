@@ -13,116 +13,46 @@
   number_educ: 1
   education1: BSc National Higher School of Cybersecurity
 
-- name: Yudai Sato
-  photo: Sato.jpeg
-  info: Postdoc, started September 2023
+- name: Rassim Cherir
+  photo: bio-photo.jpg
+  info: BSc, started Dec 2024
   email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
-  education2: Master, University of Tokyo
-
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: Postdoc, since 2023
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 3
-  education1: PhD Student, 2018-2023
-  education2: Master Leiden University with Milan Allan
-  education3: Casimir PhD fellowship
-
-- name: Meng Li
-  photo: MengLi.jpg
-  info: Postdoc, since 2023
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD, Institute of Physics, Chinese Academy of Sciences, with [Hong-Jun Gao](http://n04.iphy.ac.cn/english/zt/hongjungao.html).
-  education2: BSc University of Chinese Academy of Sciences
-
-- name: Thomas Gozlinski
-  photo: Thomas.jpg
-  info: Postdoc, since November 2023
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php).
-  education2: MSc KIT
-
-- name: Amber Mozes
-  photo: Amber.png
-  info: PhD Student, started September 2021
-  email: b
-  number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
-  education3:
-  education4:
-
-- name: Maialen Ortego Larrazabal
-  photo: Maialen.png
-  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
-  email: b
-  number_educ: 2
-  education1: Master Leiden University
-  education2: BSc, University of the Basque Country
-  education3:
-  education4:
-
-- name: Sanghun Lee 이상헌
-  photo: Sanghun.jpg
-  info: PhD Student
-  email: b
-  number_educ: 2
-  education1: Master Yonsei with [Doohee Cho](http://physicsyonsei.kr/en/people/professor?idx=48)
-  education2: BSc, Yonsei University
-  education3:
-  education4:
-
-- name: Louw Feenstra
-  photo: rock.jpg
-  info: PhD Student, started November 2024
-  email: b
-  number_educ: 2
-  education1: BSc, Leiden University
-  education2: MSc, LMU Munich, with [Christian Pfleiderer](https://www.professoren.tum.de/en/pfleiderer-christian)
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
   number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
+  education1: BSc, <a href="https://www.usthb.dz">USTHB</a>
 
-- name: Ilse Kuijf
-  photo: ilse.jpeg
-  info: Shared PhD student in the [van Nieuwenburg group](https://evert.info)
-  email: Bastiaans@Physics.LeidenUniv.nl
+- name: Mohammed Hachem
+  photo: bio-photo.jpg
+  info: BSc, started Dec 2024
+  email: dricihachem@gmail.com
   number_educ: 1
-  education1: Master Leiden University
+  education1: BSc, <a href="https://www.univ-eloued.dz/en/">University of El Oued</a>
 
-- name: Jaroslav Sawitsch
-  photo: jaroslav.png
-  info: Responsible for admin and finances
-  email: b
-  number_educ: 2
-  education1: Fachklasse für Bürokaufleute, Immenstadt
-  education2: 
-  education3:
-  education4:
+- name: Zakaria Hammal
+  photo: bio-photo.jpg
+  info: BSc, started Dec 2024
+  email: benschop@physics.leidenuniv.nl
+  number_educ: 1
+  education1: BSc, <a href="https://www.usthb.dz">USTHB</a>
+
+- name: Ahmed Adnane Meddah
+  photo: bio-photo.jpg
+  info: BSc, started Dec 2024
+  email: benschop@physics.leidenuniv.nl
+  number_educ: 1
+  education1: BSc, <a href="https://www.ensia.edu.dz/fr/">ENSIA</a>
+
+- name: Raouf Ould Ali
+  photo: OuldAli.jpg
+  info: BSc, started Dec 2024
+  email: benschop@physics.leidenuniv.nl
+  number_educ: 1
+  education1: BSc, <a href="https://www.ensia.edu.dz/fr/">ENSIA</a>
+
 
 - name: "This could be you !"
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  email: m.lakhal@surrey.ac.uk
   number_educ: 0
   education1:
   education2:

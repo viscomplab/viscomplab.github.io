@@ -1,7 +1,7 @@
 
 - title: "Diversity-Aware Sign Language Production through a Pose Encoding Variational Autoencoder"
   image: fg24.jpg
-  description: This paper addresses the problem of diversity-aware sign language production, where we want to give an image (or sequence) of a signer and produce another image with the same pose but different attributes (e.g. gender, skin color). To this end, we extend the variational inference paradigm to include information about the pose and the conditioning of the attributes.
+  description: This paper addresses the problem of diversity-aware sign language production, where we want to give an image (or sequence) of a signer and produce another image with the same pose but different attributes (e.g. gender, skin color).
   authors: Mohamed Ilyes Lakhal, Richard Bowden
   link:
     url: https://ieeexplore.ieee.org/document/10581951

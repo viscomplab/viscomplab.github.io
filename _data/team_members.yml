@@ -5,8 +5,6 @@
   number_educ: 2
   education1: PhD at <a href="https://www.qmul.ac.uk">QMUL</a>
   education2: Research fellow at Uni. of Surrey with <a href="https://scholar.google.co.uk/citations?user=mvvgDvcAAAAJ&hl=en">Richard Bowden</a>
-  github: mlakhal
-  scholar: sYOEurMAAAAJ
 
 - name: "This could be you !"
   photo: bio-photo.jpg
@@ -16,5 +14,3 @@
   education1:
   education2:
   education3:
-  github: 
-  scholar:

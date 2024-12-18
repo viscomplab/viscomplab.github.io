@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Instrumente"
+title: "Visual Computing Lab - Instrumente"
 layout: textlay
 excerpt: "AOA"
 sitemap: false

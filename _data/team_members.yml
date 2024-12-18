@@ -6,48 +6,6 @@
   education1: PhD at <a href="https://www.qmul.ac.uk">QMUL</a>
   education2: Research fellow at Uni. of Surrey with <a href="https://scholar.google.co.uk/citations?user=mvvgDvcAAAAJ&hl=en">Richard Bowden</a>
 
-- name: Mohammed Amine Boukhalfa
-  photo: bio-photo.jpg
-  info: BSc, started Dec 2024
-  email: niu@physics.leidenuniv.nl
-  number_educ: 1
-  education1: BSc National Higher School of Cybersecurity
-
-- name: Rassim Cherir
-  photo: bio-photo.jpg
-  info: BSc, started Dec 2024
-  email: jwlee0421@postech.ac.kr
-  number_educ: 1
-  education1: BSc, <a href="https://www.usthb.dz">USTHB</a>
-
-- name: Mohammed Hachem
-  photo: bio-photo.jpg
-  info: BSc, started Dec 2024
-  email: dricihachem@gmail.com
-  number_educ: 1
-  education1: BSc, <a href="https://www.univ-eloued.dz/en/">University of El Oued</a>
-
-- name: Zakaria Hammal
-  photo: bio-photo.jpg
-  info: BSc, started Dec 2024
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 1
-  education1: BSc, <a href="https://www.usthb.dz">USTHB</a>
-
-- name: Ahmed Adnane Meddah
-  photo: bio-photo.jpg
-  info: BSc, started Dec 2024
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 1
-  education1: BSc, <a href="https://www.ensia.edu.dz/fr/">ENSIA</a>
-
-- name: Raouf Ould Ali
-  photo: OuldAli.jpg
-  info: BSc, started Dec 2024
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 1
-  education1: BSc, <a href="https://www.ensia.edu.dz/fr/">ENSIA</a>
-
 
 - name: "This could be you !"
   photo: bio-photo.jpg

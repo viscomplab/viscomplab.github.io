@@ -20,12 +20,11 @@ permalink: /publications/
 	</td>
 	<td>
 		Xun Tu, Karthik Desingh<br/>
-		<i>"SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation,"</i><br/>
-		<b>under review.</b><br/>
-		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/diaz2024AugInsertarXiv'>Bibtex</a>] &nbsp;
-		[<a href='https://arxiv.org/pdf/2411.04386v1'>Arxiv</a>] &nbsp;
-		[<a href='https://youtu.be/CL_qik__k8c?feature=shared'>Video</a>] &nbsp;
-		[<a href='https://rpm-lab-umn.github.io/superq-grasp-webpage/'>Project page</a>] &nbsp;
+		<i>"Diversity-Aware Sign Language Production through a Pose Encoding Variational Autoencoder,"</i><br/>
+		<b>FG 2024.</b><br/>
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/lakhal_FG_24'>Bibtex</a>] &nbsp;
+    [<a href='https://ieeexplore.ieee.org/document/10581951'>IEEE</a>] &nbsp;
+		[<a href='https://arxiv.org/pdf/2405.10423'>Arxiv</a>] &nbsp;
 		
 	</td>
 </tr>

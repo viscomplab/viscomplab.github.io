@@ -1,11 +1,14 @@
 
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: ShotNoise.png
-  description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
-  authors: Jiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+- title: "Diversity-Aware Sign Language Production through a Pose Encoding Variational Autoencoder"
+  image: fg24.jpg
+  description: This paper addresses the problem of diversity-aware sign language production, where we want to give an image (or sequence) of a signer and produce another image with
+the same pose but different attributes (e.g. gender, skin color).
+To this end, we extend the variational inference paradigm to include information about the pose and the conditioning
+of the attributes.
+  authors: Mohamed Ilyes Lakhal, Richard Bowden
   link:
-    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001
-    display: Phys. Rev. Lett. 132, 076001 (Editors' Suggestion)
+    url: https://ieeexplore.ieee.org/document/10581951
+    display:  IEEE International Conference on Automatic Face and Gesture Recognition (FG) 2024
   highlight: 1
 
 - title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"

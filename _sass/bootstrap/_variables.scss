@@ -368,12 +368,14 @@ $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             $text-color !default;
 // $navbar-default-bg:                #f8f8f8 !default;
-$navbar-default-bg:                #2596be !default;
+$navbar-default-bg:                #0a58a8 !default;
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
-$navbar-default-link-color:                $gray-light !default;
-$navbar-default-link-hover-color:          $gray-dark !default;
+// $navbar-default-link-color:                $gray-light !default;
+// $navbar-default-link-hover-color:          $gray-dark !default;
+$navbar-default-link-color:                lighten($gray-light, 20%) !default;
+$navbar-default-link-hover-color:          lighten($gray-light, 60%) !default;
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         $navbar-default-link-hover-color !default;
 $navbar-default-link-active-bg:            transparent !default;

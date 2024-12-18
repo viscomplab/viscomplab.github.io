@@ -36,8 +36,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
   {% endif %}
 
   {% if member.number_educ == 3 %}
@@ -61,8 +61,22 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <li> {{ member.education5 }} </li>
   {% endif %}
 
+  {% if member.github %}
+  <a href="https://github.com/{{member.github}}"><img alt="github" src="{{ site.url }}{{ site.baseurl }}/images/github.png" width="20" height="20"/></a>
+  {% endif %}
+
+  {% if member.scholar %}
+  <a href="https://scholar.google.com/citations?user={{member.scholar}}"><img alt="scholar" src="{{ site.url }}{{ site.baseurl }}/images/scholar.png" width="23" height="23"/></a>
+  {% endif %}
+
   </ul>
+
+
+
 </div>
+
+
+
 
 {% assign number_printed = number_printed | plus: 1 %}
 

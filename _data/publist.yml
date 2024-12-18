@@ -19,3 +19,13 @@
     display:  International Joint Conference on Computer Vision, Imaging and Computer Graphics (VISAPP) 2023
   highlight: 0
   news2:
+
+- title: "Implicit texture mapping for multi-view video synthesis"
+  image: bmvc22.jpg
+  description:  Multi-view video synthesis generates the scene dynamics from a viewpoint given a source view and one or more modalities of a targeted view. In this paper, we frame video synthesis as a feature learning problem and solve it as target-view motion synthesis with spatial refinement.
+  authors: Mohamed Ilyes Lakhal, Oswald Lanz, Andrea Cavallaro
+  link:
+    url: https://bmvc2022.mpi-inf.mpg.de/0290.pdf
+    display: British Machine Vision Conference (BMVC) 2022
+  highlight: 1
+  news2:

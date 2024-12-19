@@ -1,5 +1,5 @@
 ---
-title: "Visual Computing Lab - Vacancies"
+title: "Visual Computing Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

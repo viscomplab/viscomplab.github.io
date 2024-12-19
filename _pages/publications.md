@@ -21,7 +21,7 @@ permalink: /publications/
 	<td>
 		Mohamed Ilyes Lakhal, Richard Bowden<br/>
 		<i>"Diversity-Aware Sign Language Production through a Pose Encoding Variational Autoencoder,"</i><br/>
-		<em> IEEE conference series on Automatic Face and Gesture Recognition </em>, <b>(FG)</b>, 2024. <br />
+		<em> IEEE conference series on Automatic Face and Gesture Recognition</em>, <b>(FG)</b>, 2024. <br />
 		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/lakhal_FG_24'>Bibtex</a>] &nbsp;
     [<a href='https://ieeexplore.ieee.org/document/10581951'>IEEE</a>] &nbsp;
 		[<a href='https://arxiv.org/pdf/2405.10423'>Arxiv</a>] &nbsp;
@@ -37,7 +37,7 @@ permalink: /publications/
 	<td>
 		Mohamed Ilyes Lakhal, Oswald Lanz, Andrea Cavallaro<br/>
 		<i>"Implicit texture mapping for multi-view video synthesis,"</i><br/>
-		<em> British Machine Vision Conference </em>, <b>(BMVC)</b>, 2022. <br />
+		<em> British Machine Vision Conference</em>, <b>(BMVC)</b>, 2022. <br />
 		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/lakhal_BMVC_22'>Bibtex</a>] &nbsp;
 		[<a href='https://arxiv.org/pdf/2410.14968'>Arxiv</a>] &nbsp;
     [<a href='https://bmvc2022.mpi-inf.mpg.de/290/'>Poster</a>] &nbsp;

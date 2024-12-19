@@ -3,7 +3,7 @@ title: "Visual Computing Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /openings
 ---
 
 # Open positions

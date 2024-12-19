@@ -1,7 +1,7 @@
 ---
 title: "Visual Computing Lab - Home"
 layout: homelay
-excerpt: "Visual Computing Lab at the University Of Surrey &rarr; CVSSP."
+excerpt: "Visual Computing Lab at CVSSP."
 sitemap: false
 permalink: /
 ---
